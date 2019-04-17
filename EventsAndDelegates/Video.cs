@@ -6,6 +6,6 @@ namespace EventsAndDelegates
 {
     public class Video
     {
-        public string Header { get; set; }
+        public string Title { get; internal set; }
     }
 }
